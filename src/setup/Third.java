@@ -7,5 +7,11 @@ public class Third {
         int i = 10;
         double b = 22.2;
         String s = "just some text";
+
+        // adding some text
+
+        // this is second commit
+
+
     }
 }
