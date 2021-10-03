@@ -12,6 +12,8 @@ public class Third {
 
         // this is second commit
 
-
+        do{
+            System.out.println("third commit");
+        }while(b < i);
     }
 }
